@@ -1,0 +1,2702 @@
+[
+  {
+    "gender": "male",
+    "age": 6,
+    "term": 5,
+    "premium": 10109000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 6,
+    "term": 10,
+    "premium": 5951000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 6,
+    "term": 15,
+    "premium": 5027000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 7,
+    "term": 5,
+    "premium": 10318000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 7,
+    "term": 10,
+    "premium": 6072000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 7,
+    "term": 15,
+    "premium": 5126000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 8,
+    "term": 5,
+    "premium": 10571000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 8,
+    "term": 10,
+    "premium": 6226000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 8,
+    "term": 15,
+    "premium": 5258000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 9,
+    "term": 5,
+    "premium": 10835000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 9,
+    "term": 10,
+    "premium": 6380000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 9,
+    "term": 15,
+    "premium": 5390000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 10,
+    "term": 5,
+    "premium": 11176000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 10,
+    "term": 10,
+    "premium": 6578000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 10,
+    "term": 15,
+    "premium": 5555000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 11,
+    "term": 5,
+    "premium": 11528000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 11,
+    "term": 10,
+    "premium": 6776000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 11,
+    "term": 15,
+    "premium": 5720000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 12,
+    "term": 5,
+    "premium": 11891000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 12,
+    "term": 10,
+    "premium": 6996000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 12,
+    "term": 15,
+    "premium": 5907000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 13,
+    "term": 5,
+    "premium": 12254000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 13,
+    "term": 10,
+    "premium": 7216000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 13,
+    "term": 15,
+    "premium": 6094000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 14,
+    "term": 5,
+    "premium": 12705000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 14,
+    "term": 10,
+    "premium": 7480000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 14,
+    "term": 15,
+    "premium": 6314000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 15,
+    "term": 5,
+    "premium": 13211000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 15,
+    "term": 10,
+    "premium": 7777000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 15,
+    "term": 15,
+    "premium": 6556000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 16,
+    "term": 5,
+    "premium": 13728000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 16,
+    "term": 10,
+    "premium": 8074000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 16,
+    "term": 15,
+    "premium": 6820000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 17,
+    "term": 5,
+    "premium": 14267000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 17,
+    "term": 10,
+    "premium": 8393000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 17,
+    "term": 15,
+    "premium": 7084000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 18,
+    "term": 5,
+    "premium": 14828000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 18,
+    "term": 10,
+    "premium": 8734000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 18,
+    "term": 15,
+    "premium": 7370000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 19,
+    "term": 5,
+    "premium": 15411000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 19,
+    "term": 10,
+    "premium": 9075000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 19,
+    "term": 15,
+    "premium": 7645000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 20,
+    "term": 5,
+    "premium": 16060000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 20,
+    "term": 10,
+    "premium": 9449000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 20,
+    "term": 15,
+    "premium": 7975000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 21,
+    "term": 5,
+    "premium": 16786000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 21,
+    "term": 10,
+    "premium": 9878000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 21,
+    "term": 15,
+    "premium": 8338000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 22,
+    "term": 5,
+    "premium": 17567000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 22,
+    "term": 10,
+    "premium": 10340000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 22,
+    "term": 15,
+    "premium": 8723000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 23,
+    "term": 5,
+    "premium": 18403000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 23,
+    "term": 10,
+    "premium": 10813000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 23,
+    "term": 15,
+    "premium": 9130000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 24,
+    "term": 5,
+    "premium": 19294000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 24,
+    "term": 10,
+    "premium": 11341000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 24,
+    "term": 15,
+    "premium": 9581000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "term": 5,
+    "premium": 20251000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "term": 10,
+    "premium": 11913000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "term": 15,
+    "premium": 10043000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 26,
+    "term": 5,
+    "premium": 21241000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 26,
+    "term": 10,
+    "premium": 12496000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 26,
+    "term": 15,
+    "premium": 10538000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "term": 5,
+    "premium": 22297000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "term": 10,
+    "premium": 13112000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "term": 15,
+    "premium": 11066000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "term": 5,
+    "premium": 23419000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "term": 10,
+    "premium": 13783000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "term": 15,
+    "premium": 11638000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "term": 5,
+    "premium": 24607000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "term": 10,
+    "premium": 14487000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "term": 15,
+    "premium": 12221000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "term": 5,
+    "premium": 25850000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "term": 10,
+    "premium": 15191000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "term": 15,
+    "premium": 12815000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 31,
+    "term": 5,
+    "premium": 27159000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 31,
+    "term": 10,
+    "premium": 15983000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 31,
+    "term": 15,
+    "premium": 13486000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 32,
+    "term": 5,
+    "premium": 28534000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 32,
+    "term": 10,
+    "premium": 16775000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 32,
+    "term": 15,
+    "premium": 14146000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "term": 5,
+    "premium": 29975000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "term": 10,
+    "premium": 17644000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "term": 15,
+    "premium": 14883000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "term": 5,
+    "premium": 31482000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "term": 10,
+    "premium": 18535000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "term": 15,
+    "premium": 15642000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "term": 5,
+    "premium": 33066000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "term": 10,
+    "premium": 19448000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "term": 15,
+    "premium": 16412000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "term": 5,
+    "premium": 34727000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "term": 10,
+    "premium": 20438000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "term": 15,
+    "premium": 17237000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "term": 5,
+    "premium": 36476000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "term": 10,
+    "premium": 21461000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "term": 15,
+    "premium": 18106000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 38,
+    "term": 5,
+    "premium": 38324000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 38,
+    "term": 10,
+    "premium": 22550000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 38,
+    "term": 15,
+    "premium": 19030000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "term": 5,
+    "premium": 40304000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "term": 10,
+    "premium": 23705000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "term": 15,
+    "premium": 20009000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 40,
+    "term": 5,
+    "premium": 42306000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 40,
+    "term": 10,
+    "premium": 24937000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 40,
+    "term": 15,
+    "premium": 21043000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 41,
+    "term": 5,
+    "premium": 44440000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 41,
+    "term": 10,
+    "premium": 26213000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 41,
+    "term": 15,
+    "premium": 22143000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "term": 5,
+    "premium": 46640000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "term": 10,
+    "premium": 27544000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "term": 15,
+    "premium": 23287000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 43,
+    "term": 5,
+    "premium": 48928000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 43,
+    "term": 10,
+    "premium": 28930000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 43,
+    "term": 15,
+    "premium": 24486000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 44,
+    "term": 5,
+    "premium": 51293000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 44,
+    "term": 10,
+    "premium": 30371000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 44,
+    "term": 15,
+    "premium": 25740000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 45,
+    "term": 5,
+    "premium": 53757000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 45,
+    "term": 10,
+    "premium": 31867000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 45,
+    "term": 15,
+    "premium": 27049000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 46,
+    "term": 5,
+    "premium": 56331000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 46,
+    "term": 10,
+    "premium": 33429000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 46,
+    "term": 15,
+    "premium": 28424000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 47,
+    "term": 5,
+    "premium": 58993000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 47,
+    "term": 10,
+    "premium": 35068000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 47,
+    "term": 15,
+    "premium": 29865000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 48,
+    "term": 5,
+    "premium": 61754000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 48,
+    "term": 10,
+    "premium": 36762000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 48,
+    "term": 15,
+    "premium": 31372000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "term": 5,
+    "premium": 64603000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "term": 10,
+    "premium": 38522000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "term": 15,
+    "premium": 33099000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 50,
+    "term": 5,
+    "premium": 67529000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 50,
+    "term": 10,
+    "premium": 40359000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 50,
+    "term": 15,
+    "premium": 35640000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 51,
+    "term": 5,
+    "premium": 70543000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 51,
+    "term": 10,
+    "premium": 42251000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 52,
+    "term": 5,
+    "premium": 73733000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 52,
+    "term": 10,
+    "premium": 44275000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 53,
+    "term": 5,
+    "premium": 77132000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 53,
+    "term": 10,
+    "premium": 46442000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 54,
+    "term": 5,
+    "premium": 80641000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 54,
+    "term": 10,
+    "premium": 48708000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 55,
+    "term": 5,
+    "premium": 84304000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 55,
+    "term": 10,
+    "premium": 51073000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 56,
+    "term": 5,
+    "premium": 88066000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 57,
+    "term": 5,
+    "premium": 91938000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 58,
+    "term": 5,
+    "premium": 95887000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 59,
+    "term": 5,
+    "premium": 99957000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "male",
+    "age": 60,
+    "term": 5,
+    "premium": 104159000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 6,
+    "term": 5,
+    "premium": 10241000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 6,
+    "term": 10,
+    "premium": 6028000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 6,
+    "term": 15,
+    "premium": 5093000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 7,
+    "term": 5,
+    "premium": 10472000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 7,
+    "term": 10,
+    "premium": 6160000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 7,
+    "term": 15,
+    "premium": 5203000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 8,
+    "term": 5,
+    "premium": 10736000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 8,
+    "term": 10,
+    "premium": 6325000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 8,
+    "term": 15,
+    "premium": 5335000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 9,
+    "term": 5,
+    "premium": 11022000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 9,
+    "term": 10,
+    "premium": 6490000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 9,
+    "term": 15,
+    "premium": 5478000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 10,
+    "term": 5,
+    "premium": 11374000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 10,
+    "term": 10,
+    "premium": 6699000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 10,
+    "term": 15,
+    "premium": 5643000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 11,
+    "term": 5,
+    "premium": 11715000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 11,
+    "term": 10,
+    "premium": 6897000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 11,
+    "term": 15,
+    "premium": 5819000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 12,
+    "term": 5,
+    "premium": 12078000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 12,
+    "term": 10,
+    "premium": 7117000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 12,
+    "term": 15,
+    "premium": 6006000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 13,
+    "term": 5,
+    "premium": 12452000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 13,
+    "term": 10,
+    "premium": 7326000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 13,
+    "term": 15,
+    "premium": 6193000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 14,
+    "term": 5,
+    "premium": 12936000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 14,
+    "term": 10,
+    "premium": 7612000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 14,
+    "term": 15,
+    "premium": 6424000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 15,
+    "term": 5,
+    "premium": 13464000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 15,
+    "term": 10,
+    "premium": 7931000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 15,
+    "term": 15,
+    "premium": 6688000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 16,
+    "term": 5,
+    "premium": 14025000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 16,
+    "term": 10,
+    "premium": 8261000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 16,
+    "term": 15,
+    "premium": 6963000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 17,
+    "term": 5,
+    "premium": 14630000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 17,
+    "term": 10,
+    "premium": 8613000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 17,
+    "term": 15,
+    "premium": 7271000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 18,
+    "term": 5,
+    "premium": 15268000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 18,
+    "term": 10,
+    "premium": 8987000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 18,
+    "term": 15,
+    "premium": 7579000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 19,
+    "term": 5,
+    "premium": 15950000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 19,
+    "term": 10,
+    "premium": 9383000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 19,
+    "term": 15,
+    "premium": 7920000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 20,
+    "term": 5,
+    "premium": 16698000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 20,
+    "term": 10,
+    "premium": 9823000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 20,
+    "term": 15,
+    "premium": 8294000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 21,
+    "term": 5,
+    "premium": 17534000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 21,
+    "term": 10,
+    "premium": 10318000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 21,
+    "term": 15,
+    "premium": 8712000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 22,
+    "term": 5,
+    "premium": 18381000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 22,
+    "term": 10,
+    "premium": 10813000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 22,
+    "term": 15,
+    "premium": 9130000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "term": 5,
+    "premium": 19228000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "term": 10,
+    "premium": 11319000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "term": 15,
+    "premium": 9548000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "term": 5,
+    "premium": 20108000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "term": 10,
+    "premium": 11847000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "term": 15,
+    "premium": 9977000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "term": 5,
+    "premium": 21021000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "term": 10,
+    "premium": 12375000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "term": 15,
+    "premium": 10439000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "term": 5,
+    "premium": 22000000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "term": 10,
+    "premium": 12947000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "term": 15,
+    "premium": 10923000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "term": 5,
+    "premium": 23023000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "term": 10,
+    "premium": 13552000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "term": 15,
+    "premium": 11429000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "term": 5,
+    "premium": 24123000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "term": 10,
+    "premium": 14190000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "term": 15,
+    "premium": 11979000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "term": 5,
+    "premium": 25256000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "term": 10,
+    "premium": 14839000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "term": 15,
+    "premium": 12540000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "term": 5,
+    "premium": 26444000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "term": 10,
+    "premium": 15543000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "term": 15,
+    "premium": 13101000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "term": 5,
+    "premium": 27621000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "term": 10,
+    "premium": 16269000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "term": 15,
+    "premium": 13717000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 32,
+    "term": 5,
+    "premium": 28897000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 32,
+    "term": 10,
+    "premium": 17006000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 32,
+    "term": 15,
+    "premium": 14377000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "term": 5,
+    "premium": 30239000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "term": 10,
+    "premium": 17787000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "term": 15,
+    "premium": 15015000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "term": 5,
+    "premium": 31625000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "term": 10,
+    "premium": 18601000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "term": 15,
+    "premium": 15708000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "term": 5,
+    "premium": 33110000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "term": 10,
+    "premium": 19481000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "term": 15,
+    "premium": 16445000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "term": 5,
+    "premium": 34683000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "term": 10,
+    "premium": 20405000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "term": 15,
+    "premium": 17215000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "term": 5,
+    "premium": 36344000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "term": 10,
+    "premium": 21384000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "term": 15,
+    "premium": 18040000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "term": 5,
+    "premium": 38082000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "term": 10,
+    "premium": 22407000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "term": 15,
+    "premium": 18909000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "term": 5,
+    "premium": 39908000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "term": 10,
+    "premium": 23474000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "term": 15,
+    "premium": 19811000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "term": 5,
+    "premium": 41217000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "term": 10,
+    "premium": 24453000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "term": 15,
+    "premium": 20746000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "term": 5,
+    "premium": 43043000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "term": 10,
+    "premium": 25564000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "term": 15,
+    "premium": 22220000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 42,
+    "term": 5,
+    "premium": 44891000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 42,
+    "term": 10,
+    "premium": 26697000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 42,
+    "term": 15,
+    "premium": 24046000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "term": 5,
+    "premium": 46772000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "term": 10,
+    "premium": 27841000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "term": 15,
+    "premium": 26037000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "term": 5,
+    "premium": 48708000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "term": 10,
+    "premium": 29018000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "term": 15,
+    "premium": 27478000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "term": 5,
+    "premium": 50699000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "term": 10,
+    "premium": 30250000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "term": 15,
+    "premium": 29018000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 46,
+    "term": 5,
+    "premium": 52767000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 46,
+    "term": 10,
+    "premium": 31515000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 46,
+    "term": 15,
+    "premium": 30041000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 47,
+    "term": 5,
+    "premium": 54912000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 47,
+    "term": 10,
+    "premium": 32824000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 47,
+    "term": 15,
+    "premium": 31053000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 48,
+    "term": 5,
+    "premium": 57123000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 48,
+    "term": 10,
+    "premium": 34188000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 48,
+    "term": 15,
+    "premium": 32483000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 49,
+    "term": 5,
+    "premium": 59400000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 49,
+    "term": 10,
+    "premium": 35607000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 49,
+    "term": 15,
+    "premium": 34001000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 50,
+    "term": 5,
+    "premium": 61754000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 50,
+    "term": 10,
+    "premium": 37070000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 50,
+    "term": 15,
+    "premium": 36190000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 51,
+    "term": 5,
+    "premium": 64163000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 51,
+    "term": 10,
+    "premium": 38588000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 52,
+    "term": 5,
+    "premium": 66726000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 52,
+    "term": 10,
+    "premium": 40205000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 53,
+    "term": 5,
+    "premium": 69454000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 53,
+    "term": 10,
+    "premium": 41954000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 54,
+    "term": 5,
+    "premium": 72347000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 54,
+    "term": 10,
+    "premium": 43813000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 55,
+    "term": 5,
+    "premium": 75372000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 55,
+    "term": 10,
+    "premium": 45771000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 56,
+    "term": 5,
+    "premium": 78518000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 57,
+    "term": 5,
+    "premium": 81741000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 58,
+    "term": 5,
+    "premium": 85063000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 59,
+    "term": 5,
+    "premium": 88451000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  },
+  {
+    "gender": "female",
+    "age": 60,
+    "term": 5,
+    "premium": 91916000,
+    "plan": "basic",
+    "smoking": "non smoker",
+    "up": 1000000000
+  }
+]
